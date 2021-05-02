@@ -11,7 +11,7 @@ public class PermutationOfString {
 
 	// Backtracking : n! solutions for permutations
 	// Time complexity O(n*n!)
-	private void permute(char[] str, int l, int r) {
+	public void permute(char[] str, int l, int r) {
 		if (l == r) {
 			System.out.println(str);
 			return;
