@@ -1,4 +1,4 @@
-package Blind75;
+package Blind75.Q1_Q15;
 
 import java.util.HashMap;
 import java.util.Stack;

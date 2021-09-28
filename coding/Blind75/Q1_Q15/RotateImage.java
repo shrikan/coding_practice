@@ -1,4 +1,4 @@
-package Blind75;
+package Blind75.Q1_Q15;
 
 /*
  * Solution to: 12. https://leetcode.com/problems/rotate-image/

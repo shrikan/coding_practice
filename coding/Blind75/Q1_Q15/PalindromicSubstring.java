@@ -1,4 +1,4 @@
-package Blind75;
+package Blind75.Q1_Q15;
 
 /*
  * Solution to: 3. https://leetcode.com/problems/longest-palindromic-substring/
