@@ -7,7 +7,7 @@ This repository contains solutions to various popular problems across platforms 
 
 All of them are compiled and checked against wide range of testcases and most of them working with faster execution(faster than 100% on leetcode)
 
-For any queries or mistakes, please [E-mail](sskanchi76@gmail.com).
+For any queries or corrections, please [E-mail](sskanchi76@gmail.com).
 
 Happy coding!</br>
 Shrinidhi
